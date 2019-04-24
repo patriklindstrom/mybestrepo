@@ -6,5 +6,5 @@ It was a long and stormy night. Snoopy did not know what would happen later this
 
 #Chapter 2
 What noone knew was that...
-Charlie Brown had entered the reoom:![Charlie Brown](Charlie_Brown.png)
+Charlie Brown had entered the room:![Charlie Brown](Charlie_Brown.png)
 
