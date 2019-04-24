@@ -8,3 +8,5 @@ It was a long and stormy night. Snoopy did not know what would happen later this
 What noone knew was that...
 Charlie Brown had entered the reoom:![Charlie Brown](Charlie_Brown.png)
 
+-"Are you the piano guy or just an ordinary git" asked Charlie
+-"I have been known both playing the piano and know about git" answered Linus
