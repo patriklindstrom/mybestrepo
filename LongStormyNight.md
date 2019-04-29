@@ -14,3 +14,5 @@ Charlie Brown had entered the reoom:![Charlie Brown](Charlie_Brown.png)
 
 -"This is not a clearcase against you Linus," Charlie replied fast.
 -"But do you not agree that there might be subversive thoughts of your previous commitments?"
+
+-"You cannot handle another clone of me" said Linus
